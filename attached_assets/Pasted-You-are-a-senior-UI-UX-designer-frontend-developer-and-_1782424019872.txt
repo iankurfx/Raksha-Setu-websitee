@@ -1,0 +1,651 @@
+You are a senior UI/UX designer, frontend developer and animation expert.
+
+Your task is to redesign and rebuild the complete official website of Raksha Setu from scratch.
+
+Current Website:
+rakshasetu.icu
+
+Do NOT simply copy the existing website.
+
+Create a completely new premium, modern, startup-level website similar in quality to companies like:
+
+Apple
+Nothing
+Notion
+Stripe
+Discord
+Raycast
+Linear
+Google Safety
+Life360
+
+The website should instantly make users feel:
+
+✔ Safe
+✔ Professional
+✔ Modern
+✔ Premium
+✔ Trustworthy
+
+NOT like a college project.
+
+----------------------------------------------------
+BRANDING
+----------------------------------------------------
+
+App Name
+
+Raksha Setu
+
+Tagline
+
+Your Silent Bridge To Safety
+
+Purpose
+
+Raksha Setu is an emergency safety application that helps users instantly alert trusted contacts during dangerous situations.
+
+The entire design should communicate:
+
+Trust
+Speed
+Security
+Protection
+Privacy
+Reliability
+
+----------------------------------------------------
+COLOR PALETTE
+----------------------------------------------------
+
+Use the attached Raksha Setu logo as inspiration.
+
+Use colors similar to the logo.
+
+Primary Pink
+
+#E94F87
+
+Secondary Pink
+
+#FF6EA9
+
+Dark Background
+
+#09090B
+
+Secondary Background
+
+#111113
+
+Card Background
+
+#17171A
+
+Borders
+
+rgba(255,255,255,.08)
+
+Text White
+
+#FFFFFF
+
+Secondary Text
+
+#BEBEBE
+
+Success
+
+#2DD36F
+
+Emergency
+
+#FF3B4A
+
+Accent Glow
+
+Soft pink glows around buttons
+
+No neon overload.
+
+Everything should look elegant.
+
+----------------------------------------------------
+TYPOGRAPHY
+----------------------------------------------------
+
+Use
+
+Poppins
+
+for headings
+
+Whitney
+
+or Inter
+
+for body text
+
+No cursive fonts.
+
+No handwritten fonts.
+
+Professional typography only.
+
+----------------------------------------------------
+GENERAL STYLE
+----------------------------------------------------
+
+Rounded corners
+
+Glassmorphism where suitable
+
+Soft shadows
+
+Blur backgrounds
+
+Smooth gradients
+
+Floating cards
+
+Animated glowing buttons
+
+Beautiful hover animations
+
+Parallax scrolling
+
+Fade in sections
+
+Slide animations
+
+Floating background particles
+
+Mouse movement effects
+
+Smooth page transitions
+
+Everything should feel premium.
+
+----------------------------------------------------
+NAVIGATION BAR
+----------------------------------------------------
+
+Sticky Navigation
+
+Transparent initially
+
+Blur while scrolling
+
+Left
+
+Raksha Setu Logo
+
+Raksha Setu
+
+Personal Safety
+
+Center
+
+Home
+
+Features
+
+Reviews
+
+About
+
+Privacy Policy
+
+Terms & Conditions
+
+Right Side
+
+Instagram Icon
+
+Facebook Icon
+
+X (Twitter) Icon
+
+Download App Button
+
+The Download button should glow slightly.
+
+----------------------------------------------------
+HERO SECTION
+----------------------------------------------------
+
+Split layout
+
+LEFT SIDE
+
+Large Heading
+
+YOUR SILENT
+BRIDGE TO
+SAFETY
+
+Subheading
+
+Your privacy-first emergency companion.
+
+Instant SOS alerts.
+
+Live location sharing.
+
+Offline emergency activation.
+
+Designed to protect when every second matters.
+
+Buttons
+
+Download Now
+
+Learn More
+
+Trust Badges
+
+No Tracking
+
+Works Offline
+
+Privacy First
+
+RIGHT SIDE
+
+Large floating phone mockup.
+
+Use the screenshot I attached.
+
+Animate it.
+
+Floating movement.
+
+Soft glow.
+
+Light reflection.
+
+If higher quality mobile mockups are needed, ask me and I will provide them.
+
+Background
+
+Dark gradient
+
+Pink radial glow
+
+Animated floating particles
+
+Blur circles
+
+Grid lines
+
+----------------------------------------------------
+LIVE STATS SECTION
+----------------------------------------------------
+
+Animated Counters
+
+0 Server Tracking
+
+100% Privacy
+
+24/7 Protection
+
+Instant SOS
+
+Offline Ready
+
+Counters animate while scrolling.
+
+----------------------------------------------------
+FEATURES SECTION
+----------------------------------------------------
+
+Create beautiful glass cards.
+
+Each card has icon
+
+Title
+
+Description
+
+Animation
+
+Features
+
+Emergency SOS
+
+One tap instantly alerts emergency contacts.
+
+Volume Button Trigger
+
+Hold Volume Down for configurable seconds to activate SOS without unlocking the phone.
+
+Voice Code Trigger
+
+User can secretly activate emergency mode using a custom voice keyword.
+
+Live Location Sharing
+
+Continuously shares encrypted live location with trusted contacts.
+
+Fake Call
+
+Generate a realistic incoming fake call to escape uncomfortable situations.
+
+Trusted Contacts
+
+Manage emergency contacts easily.
+
+Safety Intelligence
+
+Detect unsafe areas and nearby risks.
+
+Emergency Siren
+
+Trigger loud alarm.
+
+Battery Optimized
+
+Designed to consume minimal battery.
+
+Works Without Internet
+
+Emergency logic still functions even with limited connectivity.
+
+Privacy First
+
+No tracking.
+
+No selling data.
+
+Location only shared during emergencies.
+
+Each feature card should have:
+
+Hover lift
+
+Border glow
+
+Icon animation
+
+----------------------------------------------------
+HOW IT WORKS
+----------------------------------------------------
+
+Step 1
+
+Install Raksha Setu
+
+↓
+
+Step 2
+
+Add trusted contacts
+
+↓
+
+Step 3
+
+Enable emergency permissions
+
+↓
+
+Step 4
+
+Stay protected everywhere
+
+Use timeline animation.
+
+----------------------------------------------------
+APP SHOWCASE
+----------------------------------------------------
+
+Large carousel
+
+Multiple mobile mockups
+
+App screenshots
+
+Floating animations
+
+Phone reflections
+
+Parallax effect
+
+If I need to provide more screenshots ask me.
+
+----------------------------------------------------
+WHY RAKSHA SETU
+----------------------------------------------------
+
+Comparison table
+
+Raksha Setu
+
+Other Apps
+
+Offline Trigger
+
+YES
+
+Voice Trigger
+
+YES
+
+Volume Trigger
+
+YES
+
+Fake Call
+
+YES
+
+Privacy First
+
+YES
+
+No Tracking
+
+YES
+
+Modern UI
+
+YES
+
+----------------------------------------------------
+USER REVIEWS
+----------------------------------------------------
+
+Beautiful review carousel.
+
+For now generate realistic placeholder reviews.
+
+Include
+
+Profile photo
+
+Name
+
+5 stars
+
+Review
+
+I'll replace them later.
+
+Cards should auto scroll infinitely.
+
+----------------------------------------------------
+DOWNLOAD SECTION
+----------------------------------------------------
+
+Large CTA
+
+Ready To Stay Safe?
+
+Download Raksha Setu Today.
+
+Buttons
+
+Google Play
+
+APK Download
+
+Coming Soon (optional)
+
+Large glowing background.
+
+----------------------------------------------------
+FOOTER
+----------------------------------------------------
+
+Professional footer.
+
+Sections
+
+Navigation
+
+Home
+
+Features
+
+Reviews
+
+About
+
+Legal
+
+Privacy Policy
+
+Terms & Conditions
+
+About Raksha Setu
+
+Support
+
+Contact Us
+
+Email
+
+FAQ
+
+Social Icons
+
+Instagram
+
+Facebook
+
+X
+
+Copyright
+
+Made with ❤️ for safer communities.
+
+----------------------------------------------------
+PAGES
+----------------------------------------------------
+
+Create separate pages.
+
+Home
+
+Features
+
+About
+
+Privacy Policy
+
+Terms & Conditions
+
+Each page should have proper routing.
+
+Use placeholder text where required.
+
+Privacy page should look like a real policy page.
+
+Terms page should look like a real legal page.
+
+About page should tell the Raksha Setu story.
+
+----------------------------------------------------
+ANIMATIONS
+----------------------------------------------------
+
+GSAP
+
+Framer Motion
+
+Lenis Smooth Scroll
+
+Scroll Reveal
+
+Floating animations
+
+Button ripple effects
+
+Mouse follower glow
+
+Gradient movement
+
+Smooth transitions
+
+----------------------------------------------------
+TECH STACK
+----------------------------------------------------
+
+React
+
+Next.js
+
+TailwindCSS
+
+TypeScript
+
+Framer Motion
+
+GSAP
+
+Lucide Icons
+
+Responsive Design
+
+SEO Optimized
+
+Accessibility Friendly
+
+Fast loading
+
+----------------------------------------------------
+RESPONSIVE
+----------------------------------------------------
+
+Desktop
+
+Tablet
+
+Mobile
+
+Everything should adapt perfectly.
+
+----------------------------------------------------
+IMPORTANT
+----------------------------------------------------
+
+Do NOT make this look like a generic template.
+
+It should feel like a real startup website built by a professional agency.
+
+Maintain premium spacing.
+
+Premium typography.
+
+Premium animations.
+
+Premium color usage.
+
+Professional iconography.
+
+Modern UI.
+
+The website should immediately create trust.
+
+If any additional assets are needed (high-quality phone mockups, transparent screenshots, logo SVG, feature illustrations, etc.), ask me and I will provide them before finalizing the design.
