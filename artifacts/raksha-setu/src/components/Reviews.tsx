@@ -37,7 +37,7 @@ export default function Reviews() {
     <section className="py-24 bg-background overflow-hidden">
       <div className="container mx-auto px-4 text-center mb-16">
         <h2 className="text-3xl md:text-5xl font-heading font-bold text-white">
-          Trusted By Thousands
+          Trusted By Many
         </h2>
       </div>
 

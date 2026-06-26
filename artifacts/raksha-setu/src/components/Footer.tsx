@@ -1,8 +1,18 @@
 import { Link } from "wouter";
 import logoImg from "@assets/logo_1782424239518.jpg";
 import { SiInstagram, SiFacebook, SiX } from "react-icons/si";
+import { useToast } from "@/hooks/use-toast";
 
 export default function Footer() {
+  const { toast } = useToast();
+
+  const handleSocialClick = (e: React.MouseEvent) => {
+    e.preventDefault();
+    toast({
+      description: "updatinggg soon",
+    });
+  };
+
   return (
     <footer className="bg-[#050505] border-t border-white/10 pt-16 pb-8">
       <div className="container mx-auto px-4 lg:px-8">
@@ -18,9 +28,9 @@ export default function Footer() {
             <p className="text-sm text-muted-foreground">Your Silent Bridge To Safety.</p>
             <p className="text-sm text-white/90 font-medium">Made with ❤️ for safer communities.</p>
             <div className="flex items-center gap-4 mt-2 text-muted-foreground">
-              <a href="#" className="hover:text-primary transition-colors"><SiInstagram size={18} /></a>
-              <a href="#" className="hover:text-primary transition-colors"><SiFacebook size={18} /></a>
-              <a href="#" className="hover:text-primary transition-colors"><SiX size={18} /></a>
+              <a href="#" onClick={handleSocialClick} className="hover:text-primary transition-colors"><SiInstagram size={18} /></a>
+              <a href="#" onClick={handleSocialClick} className="hover:text-primary transition-colors"><SiFacebook size={18} /></a>
+              <a href="#" onClick={handleSocialClick} className="hover:text-primary transition-colors"><SiX size={18} /></a>
             </div>
           </div>
 
