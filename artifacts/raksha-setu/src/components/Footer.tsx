@@ -52,9 +52,9 @@ export default function Footer() {
           {/* Col 4 */}
           <div className="flex flex-col gap-4">
             <h4 className="font-heading font-semibold text-white">Support</h4>
-            <a href="#" className="text-sm text-muted-foreground hover:text-white transition-colors">Contact Us</a>
-            <a href="mailto:support@rakshasetu.icu" className="text-sm text-primary hover:text-primary/80 transition-colors font-medium">support@rakshasetu.icu</a>
-            <a href="#" className="text-sm text-muted-foreground hover:text-white transition-colors">FAQ</a>
+            <a href="#" onClick={handleSocialClick} className="text-sm text-muted-foreground hover:text-white transition-colors">Contact Us</a>
+            <a href="mailto:rakshasetu2@gmail.com" className="text-sm text-primary hover:text-primary/80 transition-colors font-medium">rakshasetu2@gmail.com</a>
+            <a href="#" onClick={handleSocialClick} className="text-sm text-muted-foreground hover:text-white transition-colors">FAQ</a>
           </div>
         </div>
 
