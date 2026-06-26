@@ -54,8 +54,7 @@ export default function Hero() {
             initial={{ opacity: 0, y: 30 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.8, ease: "easeOut" }}
-            className="flex flex-col items-start text-left translate-y-[65px]"
-
+            className="flex flex-col items-start text-left lg:translate-y-[65px] translate-y-0"
           >
             <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-white/5 border border-white/10 text-primary text-sm font-medium mb-6">
               <span className="relative flex h-2 w-2">
@@ -108,7 +107,7 @@ export default function Hero() {
             <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[520px] h-[520px] bg-primary/20 rounded-full blur-[100px] pointer-events-none" />
 
             {/* Wrapper — extra padding for floating cards */}
-            <div className="relative" style={{ width: 520, padding: "0 40px 0 40px" }}>
+            <div className="relative w-full max-w-[520px] mx-auto px-10">
 
               {/* ── FLOATING CARD: SOS ─────────── */}
               <motion.div
