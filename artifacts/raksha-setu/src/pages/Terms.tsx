@@ -229,7 +229,7 @@ export default function Terms() {
         For questions, concerns, or legal notices related to these Terms, please contact:
       </p>
       <p>
-        Email: <a href="mailto:rakshasetu2@gmail.com" className="text-primary hover:underline">rakshasetu2@gmail.com</a>
+        Email: <a href="mailto:rakshasetuinfo@gmail.com" className="text-primary hover:underline">rakshasetuinfo@gmail.com</a>
       </p>
 
       <h2>Appendix A — Permission Explanations</h2>

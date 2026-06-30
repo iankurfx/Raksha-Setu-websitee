@@ -153,7 +153,7 @@ export default function Privacy() {
         If you have questions or concerns about this Privacy Policy, you can contact us at:
       </p>
       <p>
-        Email: <a href="mailto:rakshasetu2@gmail.com" className="text-primary hover:underline">rakshasetu2@gmail.com</a>
+        Email: <a href="mailto:rakshasetuinfo@gmail.com" className="text-primary hover:underline">rakshasetuinfo@gmail.com</a>
       </p>
     </div>
   );

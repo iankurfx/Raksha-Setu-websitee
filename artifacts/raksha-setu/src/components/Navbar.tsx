@@ -4,19 +4,10 @@ import { Menu, X } from "lucide-react";
 import { SiInstagram, SiFacebook, SiX } from "react-icons/si";
 import { Button } from "@/components/ui/button";
 import logoImg from "@assets/logo_1782424239518.jpg";
-import { useToast } from "@/hooks/use-toast";
 
 export default function Navbar() {
   const [isScrolled, setIsScrolled] = useState(false);
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
-  const { toast } = useToast();
-
-  const handleSocialClick = (e: React.MouseEvent) => {
-    e.preventDefault();
-    toast({
-      description: "updatinggg soon",
-    });
-  };
 
   useEffect(() => {
     const handleScroll = () => {
@@ -70,9 +61,9 @@ export default function Navbar() {
         {/* Right: Socials & CTA (Desktop) */}
         <div className="hidden lg:flex items-center gap-6">
           <div className="flex items-center gap-4 text-muted-foreground">
-            <a href="#" onClick={handleSocialClick} className="hover:text-primary transition-colors"><SiInstagram size={18} /></a>
-            <a href="#" onClick={handleSocialClick} className="hover:text-primary transition-colors"><SiFacebook size={18} /></a>
-            <a href="#" onClick={handleSocialClick} className="hover:text-primary transition-colors"><SiX size={18} /></a>
+            <a href="https://www.instagram.com/rakshasetu.co/" target="_blank" rel="noopener noreferrer" className="hover:text-primary transition-colors"><SiInstagram size={18} /></a>
+            <a href="https://www.facebook.com/profile.php?id=61591486922899" target="_blank" rel="noopener noreferrer" className="hover:text-primary transition-colors"><SiFacebook size={18} /></a>
+            <a href="https://x.com/rakshasetuco" target="_blank" rel="noopener noreferrer" className="hover:text-primary transition-colors"><SiX size={18} /></a>
           </div>
           <a href="https://play.google.com/store/apps/details?id=com.studioankur.rakshasetu" target="_blank" rel="noopener noreferrer">
             <Button className="bg-primary hover:bg-primary/90 text-white shadow-[0_0_20px_rgba(233,79,135,0.4)] hover:shadow-[0_0_30px_rgba(233,79,135,0.6)] transition-all rounded-full px-6 font-semibold border-none">
@@ -105,9 +96,9 @@ export default function Navbar() {
           ))}
           <div className="h-px bg-white/10 my-2" />
           <div className="flex justify-center gap-6 py-2 text-muted-foreground">
-            <a href="#" onClick={handleSocialClick} className="hover:text-primary transition-colors"><SiInstagram size={24} /></a>
-            <a href="#" onClick={handleSocialClick} className="hover:text-primary transition-colors"><SiFacebook size={24} /></a>
-            <a href="#" onClick={handleSocialClick} className="hover:text-primary transition-colors"><SiX size={24} /></a>
+            <a href="https://www.instagram.com/rakshasetu.co/" target="_blank" rel="noopener noreferrer" className="hover:text-primary transition-colors"><SiInstagram size={24} /></a>
+            <a href="https://www.facebook.com/profile.php?id=61591486922899" target="_blank" rel="noopener noreferrer" className="hover:text-primary transition-colors"><SiFacebook size={24} /></a>
+            <a href="https://x.com/rakshasetuco" target="_blank" rel="noopener noreferrer" className="hover:text-primary transition-colors"><SiX size={24} /></a>
           </div>
           <a href="https://play.google.com/store/apps/details?id=com.studioankur.rakshasetu" target="_blank" rel="noopener noreferrer" className="w-full">
             <Button className="w-full bg-primary hover:bg-primary/90 text-white mt-4 rounded-full font-bold shadow-[0_0_15px_rgba(233,79,135,0.4)]">

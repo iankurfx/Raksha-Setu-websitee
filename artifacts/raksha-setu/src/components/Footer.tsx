@@ -1,18 +1,8 @@
 import { Link } from "wouter";
 import logoImg from "@assets/logo_1782424239518.jpg";
 import { SiInstagram, SiFacebook, SiX } from "react-icons/si";
-import { useToast } from "@/hooks/use-toast";
 
 export default function Footer() {
-  const { toast } = useToast();
-
-  const handleSocialClick = (e: React.MouseEvent) => {
-    e.preventDefault();
-    toast({
-      description: "updatinggg soon",
-    });
-  };
-
   return (
     <footer className="bg-[#050505] border-t border-white/10 pt-16 pb-8">
       <div className="container mx-auto px-4 lg:px-8">
@@ -28,9 +18,9 @@ export default function Footer() {
             <p className="text-sm text-muted-foreground">Your Silent Bridge To Safety.</p>
             <p className="text-sm text-white/90 font-medium">Made with ❤️ for safer communities.</p>
             <div className="flex items-center gap-4 mt-2 text-muted-foreground">
-              <a href="#" onClick={handleSocialClick} className="hover:text-primary transition-colors"><SiInstagram size={18} /></a>
-              <a href="#" onClick={handleSocialClick} className="hover:text-primary transition-colors"><SiFacebook size={18} /></a>
-              <a href="#" onClick={handleSocialClick} className="hover:text-primary transition-colors"><SiX size={18} /></a>
+              <a href="https://www.instagram.com/rakshasetu.co/" target="_blank" rel="noopener noreferrer" className="hover:text-primary transition-colors"><SiInstagram size={18} /></a>
+              <a href="https://www.facebook.com/profile.php?id=61591486922899" target="_blank" rel="noopener noreferrer" className="hover:text-primary transition-colors"><SiFacebook size={18} /></a>
+              <a href="https://x.com/rakshasetuco" target="_blank" rel="noopener noreferrer" className="hover:text-primary transition-colors"><SiX size={18} /></a>
             </div>
           </div>
 
@@ -52,9 +42,8 @@ export default function Footer() {
           {/* Col 4 */}
           <div className="flex flex-col gap-4">
             <h4 className="font-heading font-semibold text-white">Support</h4>
-            <a href="#" onClick={handleSocialClick} className="text-sm text-muted-foreground hover:text-white transition-colors">Contact Us</a>
-            <a href="mailto:rakshasetu2@gmail.com" className="text-sm text-primary hover:text-primary/80 transition-colors font-medium">rakshasetu2@gmail.com</a>
-            <a href="#" onClick={handleSocialClick} className="text-sm text-muted-foreground hover:text-white transition-colors">FAQ</a>
+            <span className="text-sm text-muted-foreground">Contact Us</span>
+            <a href="mailto:rakshasetuinfo@gmail.com" className="text-sm text-primary hover:text-primary/80 transition-colors font-medium">rakshasetuinfo@gmail.com</a>
           </div>
         </div>
 
